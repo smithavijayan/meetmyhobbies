@@ -1,3 +1,8 @@
+---
+layout: template
+---
+
+
 ## Smitha's qualifications
 
 |Year|Qualification Level|
