@@ -1,6 +1,6 @@
 ---
 layout: topictemplate
-heading: {{ site.shortname }}'s initial days
+heading: Smitha's initial days
 ---
 
 ## {{ page.heading }}
