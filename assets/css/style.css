@@ -1,7 +1,16 @@
+a:link, a:visited { 
+  color: #FFFAFA;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+  color: #FFFAFA;
+}
 body {
   margin: 25px;
-  background-color: rgb(240,230,230);
+  background-color: #191970;
   font-family: arial, sans-serif;
   font-size: 14px;
-  color: rgb(255,255,51);
+  color: #FFFAFA;
 }
