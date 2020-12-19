@@ -17,9 +17,11 @@ Smitha was born and brought up in Bihar until she was 16. When she was 16, the s
 |2004|Bachelors in Computer Science|
 |2007|Masters in Computer Application|
 
-_Smitha strongly believes learning does not end with degrees. It is a constant process!_Smitha
+_Smitha strongly believes learning does not end with degrees. It is a constant process!_
 
 ## Smitha's hobbies
 
-If you know Smitha well, you will by now know that she does not stick to one hobby. She is jack of many but master in none. PS: She does not regret that! So through this website she wants to introduce you to all her hobbies.
+If you know Smitha well, you will (by now) know that she does not stick to one hobby. She is jack of many but master in none. 
+
+PS: She does not regret that! So through this website she wants to introduce you to all her hobbies.
 
