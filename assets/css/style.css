@@ -1,7 +1,7 @@
 a:link, a:visited { 
   color: #FFFAFA;
   text-decoration: underline;
-  cursor: auto;
+  cursor: pointer;
 }
 
 a:link:active, a:visited:active { 
@@ -9,8 +9,8 @@ a:link:active, a:visited:active {
 }
 body {
   margin: 25px;
-  background-color: #191970;
-  font-family: arial, sans-serif;
+  background-color: rgb(60, 60, 60);
+  font-family: arial;
   font-size: 14px;
   color: #FFFAFA;
 }

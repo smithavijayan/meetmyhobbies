@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: topictemplate
 ---
 
 ## Smitha's hobbies
