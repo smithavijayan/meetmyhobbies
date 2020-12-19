@@ -32,4 +32,12 @@ Ask Smitha to change the value of `interest` to `all` to view all her hobbies.
 Ask Smitha to change the value of `interest` to `all` to view all her hobbies.
 {% endif %}
 
+{% if site.interest == "all" %}
+## Tools used
+
+{% for items in site.data.data_file %}
+The hobby of {{ items.hobby }} needs the object {{ items.object }}.
+{% endfor %}
+{% endif %}
+
 **[Home](../index.md)**
