@@ -1,6 +1,6 @@
 ---
 layout: topictemplate
-heading: Smitha's background
+heading: Smitha's initial days
 ---
 
 ## {{ page.heading }}
