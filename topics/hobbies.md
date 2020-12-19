@@ -12,4 +12,4 @@ If you know Smitha well, you will (by now) know that she does not stick to one h
 -  [Sketching](sketching.md)
 -  [Star-gazing](stargazing.md)
 
-**[Home](./index.md)**
+**[Home](../index.md)**

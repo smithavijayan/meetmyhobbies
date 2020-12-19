@@ -13,4 +13,4 @@ layout: topictemplate
 _Smitha strongly believes learning does not end with degrees. It is a constant process!_
 
 
-**[Home](./index.md)**
+**[Home](../index.md)**
