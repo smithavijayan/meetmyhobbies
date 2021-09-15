@@ -9,5 +9,6 @@ Hello meet Smitha! She works in an MNC as a lead technical writer. She has been 
 -  [Background](topics/background.md)
 -  [Qualification](topics/qualification.md)
 -  [Hobbies](topics/hobbies.md)
+-  [Topic samples](topics/samples.md)
 
 
