@@ -30,7 +30,7 @@ Ensure you have the login credentials to access your JIRA project.
 1. Login to your JIRA project.
 2. Hover over the user profile image on the top right of the window.
 3. Select __Profile__.
-4. In the __Summary__ panel, select __Filters__ > __Assigned.
+4. In the __Summary__ panel, select __Filters__ > __Assigned__.
 
 ### Result
 All task assigned to you are listed.
