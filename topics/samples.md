@@ -10,12 +10,12 @@ A software project can be divided into several stages of development:
 - Reviewing and revisiting the project plan to assess the priorities during planning meeting
 - Creating the prototype
 - Providing demo of the prototype
-- Implementing the improvement sugggestions and merging the changes
+- Implementing the improvement suggestions and merging the changes
 - Proceeding similarly with all planned features until the end of all planned iterations
 - Holding a system demo
 - Conducting the release milestone meeting
 
-There are several tools and processes that help up to carry out all project status tracking tasks. The most frequently used tool across several enterprises is the Altassian's JIRA.
+There are several tools and processes that help up to carry out all project status tracking tasks. The most frequently used tool across several enterprises is the Atlassian's JIRA.
 
 # A procedure topic
 
@@ -33,7 +33,7 @@ Ensure you have the login credentials to access your JIRA project.
 4. In the __Summary__ panel, select __Filters__ > __Assigned__.
 
 ### Result
-All task assigned to you are listed.
+All tasks assigned to you are listed.
 
 
 
